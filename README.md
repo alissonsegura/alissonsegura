@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dya5qsb8t/image/upload/v1634198989/samples/Screen_Shot_2021-10-14_at_2.54.44_AM_ii3ka3.png)
+![MasterHead](https://res.cloudinary.com/dya5qsb8t/image/upload/v1634198989/samples/Screen_Shot_2021-10-14_at_2.54.44_AM_ii3ka3.png)
 <h1 align="center">Hi 👋, I'm Alisson </h1>
 <br>
 
